@@ -1,1 +1,5 @@
-# plex-gdrive
+# PLEX & GDrive Configuration
+
+Dedicated Server
+
+VPS
